@@ -1,6 +1,8 @@
 // 変数の宣言・代入
-let weiht = 68
+let weight = 68
 let height = 1.7
 
+bmi = weight / (height * height)
+
 // コンソールへの出力
-console.log(68 / (1.7 * 1.7));
+console.log(bmi);
