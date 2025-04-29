@@ -1,0 +1,1 @@
+data:[<media-type>][;base64],<data></data>
